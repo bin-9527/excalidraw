@@ -13,7 +13,7 @@
   </p>
 </div>
 
-## Try now
+## Try now canvas画图的工具
 
 Visit [excalidraw.com](https://excalidraw.com) to start sketching.
 
